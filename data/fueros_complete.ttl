@@ -1,5 +1,5 @@
 @prefix cdfa: <https://iaaa.es/cdfa/> .
-@prefix dcam1: <http://purl.org/dcam/> .
+@prefix dcam: <http://purl.org/dcam/> .
 @prefix dct: <http://purl.org/dc/terms/> .
 @prefix dctype: <http://purl.org/dc/dcmitype/> .
 @prefix foaf: <http://xmlns.com/foaf/0.1/> .
@@ -19,19 +19,19 @@ cdfa:Chapter a rdfs:Class ;
 
 cdfa:Charter a rdfs:Class ;
     rdfs:label "Charter"@en ;
-    dcam1:memberOf cdfa:PartType ;
+    dcam:memberOf cdfa:PartType ;
     rdfs:comment "A written grant by the sovereign or legislative power of a country, by which a body such as a city, company, or university is founded or its rights and privileges defined."@en ;
     rdfs:isDefinedBy cdfa: .
 
 cdfa:CharterNotInUse a rdfs:Class ;
     rdfs:label "Charters not inuse"@en ;
-    dcam1:memberOf cdfa:PartType ;
+    dcam:memberOf cdfa:PartType ;
     rdfs:comment "Charters not in use."@en ;
     rdfs:isDefinedBy cdfa: .
 
 cdfa:CourtAct a rdfs:Class ;
     rdfs:label "Court Act"@en ;
-    dcam1:memberOf cdfa:PartType ;
+    dcam:memberOf cdfa:PartType ;
     rdfs:comment "Court Act."@en ;
     rdfs:isDefinedBy cdfa: .
 
@@ -41,13 +41,13 @@ cdfa:CourtEvent a rdfs:Class ;
 
 cdfa:NewCharter a rdfs:Class ;
     rdfs:label "NewCharter"@en ;
-    dcam1:memberOf cdfa:PartType ;
+    dcam:memberOf cdfa:PartType ;
     rdfs:comment "New charters."@en ;
     rdfs:isDefinedBy cdfa: .
 
 cdfa:Observance a rdfs:Class ;
     rdfs:label "Observance"@en ;
-    dcam1:memberOf cdfa:PartType ;
+    dcam:memberOf cdfa:PartType ;
     rdfs:comment "Observances."@en ;
     rdfs:isDefinedBy cdfa: .
 
@@ -729,11 +729,21 @@ cdfa:courtevent-560 a cdfa:CourtEvent ;
     dct:title "Jaime Primero. Zaragoza, 1235."@es ;
     cdfa:chairedBy cdfa:person-jaime_primero .
 
+cdfa:courtevent-561 a cdfa:CourtEvent ;
+    dct:date "1227" ;
+    dct:hasPart cdfa:phrase-court-561-2714 ;
+    dct:spatial cdfa:location-almudévar ;
+    dct:title "Jaime Primero. Almudévar, 1227"@es ;
+    cdfa:chairedBy cdfa:person-jaime_primero .
+
 cdfa:location-alagón a dct:Location ;
     dct:title "Alagón"@es .
 
 cdfa:location-alcañiz a dct:Location ;
     dct:title "Alcañiz"@es .
+
+cdfa:location-almudévar a dct:Location ;
+    dct:title "Almudévar"@es .
 
 cdfa:location-daroca a dct:Location ;
     dct:title "Daroca"@es .
@@ -7450,6 +7460,9 @@ cdfa:phrase-court-559-2712 a cdfa:Phrase ;
 cdfa:phrase-court-560-2713 a cdfa:Phrase ;
     dct:description " "@la .
 
+cdfa:phrase-court-561-2714 a cdfa:Phrase ;
+    dct:description " "@la .
+
 cdfa:section-1-1 a cdfa:Section ;
     dct:hasPart cdfa:phrase-1-1-2,
         cdfa:phrase-1-1-3 ;
@@ -12473,7 +12486,7 @@ cdfa:section-9-504 a cdfa:Section ;
         cdfa:phrase-9-504-1769,
         cdfa:phrase-9-504-1770,
         cdfa:phrase-9-504-1771 ;
-    dct:relation cdfa:courtevent-513 ;
+    dct:relation cdfa:courtevent-561 ;
     dct:title "Confirmación de la paz."@es,
         "De confirmatione pacis."@la ;
     cdfa:chronologicalVersionPage "f.27." ;
@@ -12618,9 +12631,6 @@ cdfa:location-calatayud a dct:Location ;
 cdfa:location-monzón a dct:Location ;
     dct:title "Monzón"@es .
 
-cdfa:person-jaime_primero a foaf:Person ;
-    foaf:name "Jaime Primero"@es .
-
 cdfa:PartType dct:publisher cdfa: ;
     dct:title "Part Type Vocabulary"@en .
 
@@ -12640,6 +12650,9 @@ cdfa:courtevent-530 a cdfa:CourtEvent ;
     dct:spatial cdfa:location-zaragoza ;
     dct:title "Fernando Primero. Zaragoza, 1414."@es ;
     cdfa:chairedBy cdfa:person-fernando_primero .
+
+cdfa:person-jaime_primero a foaf:Person ;
+    foaf:name "Jaime Primero"@es .
 
 cdfa:person-jaime_segundo a foaf:Person ;
     foaf:name "Jaime Segundo"@es .

@@ -106,6 +106,10 @@ def t(key):
 
 
 def short_literal(text: str) -> str:
+    # Show FULL text on phrase pages, truncated elsewhere
+    frag = request.view_args.get('frag', '') if request.view_args else ''
+    if 'phrase' in frag.lower():
+        return  text.replace('\\n', '<br>').replace('  ', '&nbsp;&nbsp;')
     if len(text) <= MAX_LITERAL_CHARS:
         return text
     return text[:MAX_LITERAL_CHARS] + "..."
@@ -645,7 +649,7 @@ a.resource-link:hover{{background:#ebf3fd;color:#2980b9}}
 a.concept-link{{color:#27ae60 !important;border-left-color:#2ecc71 !important;text-decoration:none;display:block;padding:8px 0}}
 a.concept-link:hover{{background:#e8f8f5;color:#229954}}
 a.terminal-link{{color:#95a5a6 !important;font-style:italic;border-left-color:#bdc3c7 !important}}
-.literal-trunc{{color:#7f8c8d;background:#f8f9fa;padding:6px 12px;border-radius:6px;cursor:help}}
+.literal-trunc{{color:#7f8c8d;background:#f8f9fa;padding:12px;border-radius:6px;cursor:help;white-space:pre-line !important;line-height:1.6 !important;word-wrap:break-word !important;display:block !important}}
 .phrase-link a {{color:#e67e22 !important; border-left-color:#f39c12 !important; font-style:italic; font-weight:normal; display:inline !important; padding:0 !important; margin:0 !important; border-left:0 !important}}
 .phrase-link a:hover {{background:transparent !important; color:#d68910 !important}}
 </style></head>
@@ -792,7 +796,9 @@ a.terminal-link{{color:#95a5a6 !important;font-style:italic;border-left-color:#b
             elif isinstance(o, Literal):
                 display = short_literal(str(o))
                 safe_full = str(o).replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-                obj_html = f'<span title="{safe_full}" class="literal-trunc">{display}</span>'
+                title_attr = '' if 'phrase' in frag.lower() else f'title="{safe_full}"'
+                obj_html = f'<span {title_attr} class="literal-trunc">{display}</span>'
+                #obj_html = f'<span title="{safe_full}" class="literal-trunc">{display}</span>'
             else:
                 obj_html = str(o)
 

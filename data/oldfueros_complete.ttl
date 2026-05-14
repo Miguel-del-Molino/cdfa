@@ -642,6 +642,7 @@ cdfa:chapter-9 a cdfa:Chapter ;
         "Liber nonus"@la .
 
 cdfa:courtevent-521 a cdfa:CourtEvent ;
+    dct:date "1352" ;
     dct:hasPart cdfa:phrase-court-521-1832,
         cdfa:phrase-court-521-1833,
         cdfa:phrase-court-521-1834,
@@ -651,6 +652,7 @@ cdfa:courtevent-521 a cdfa:CourtEvent ;
     cdfa:chairedBy cdfa:person-pedro_cuarto .
 
 cdfa:courtevent-524 a cdfa:CourtEvent ;
+    dct:date "1367" ;
     dct:hasPart cdfa:phrase-court-524-1853,
         cdfa:phrase-court-524-1854,
         cdfa:phrase-court-524-1855,
@@ -660,6 +662,7 @@ cdfa:courtevent-524 a cdfa:CourtEvent ;
     cdfa:chairedBy cdfa:person-pedro_cuarto .
 
 cdfa:courtevent-526 a cdfa:CourtEvent ;
+    dct:date "1375" ;
     dct:hasPart cdfa:phrase-court-526-1866,
         cdfa:phrase-court-526-1867,
         cdfa:phrase-court-526-1868,
@@ -671,45 +674,59 @@ cdfa:courtevent-526 a cdfa:CourtEvent ;
     cdfa:chairedBy cdfa:person-pedro_cuarto .
 
 cdfa:courtevent-553 a cdfa:CourtEvent ;
+    dct:date "1325" ;
     dct:hasPart cdfa:phrase-court-553-2706 ;
     dct:spatial cdfa:location-zaragoza ;
     dct:title "Jaime Segundo. En Zaragoza, 1325."@es ;
     cdfa:chairedBy cdfa:person-jaime_segundo .
 
 cdfa:courtevent-554 a cdfa:CourtEvent ;
+    dct:date "1442" ;
     dct:hasPart cdfa:phrase-court-554-2707 ;
     dct:spatial cdfa:location-zaragoza ;
     dct:title "María Reina, Lugarteniente. En Zaragoza, 1442."@es ;
     cdfa:chairedBy <https://iaaa.es/cdfa/person-maría_reina,_lugarteniente> .
 
 cdfa:courtevent-555 a cdfa:CourtEvent ;
+    dct:date "1436" ;
     dct:hasPart cdfa:phrase-court-555-2708 ;
     dct:spatial cdfa:location-alcañiz ;
     dct:title "Juan, Rey de Navarra, Lugarteniente. En Alcañiz, 1436."@es ;
     cdfa:chairedBy <https://iaaa.es/cdfa/person-juan,_rey_de_navarra,_lugarteniente> .
 
 cdfa:courtevent-556 a cdfa:CourtEvent ;
+    dct:date "1461" ;
     dct:hasPart cdfa:phrase-court-556-2709 ;
     dct:spatial cdfa:location-calatayud ;
     dct:title "Juan Segundo. En Calatayud, 1461."@es ;
     cdfa:chairedBy cdfa:person-juan_segundo .
 
 cdfa:courtevent-557 a cdfa:CourtEvent ;
+    dct:date "1451" ;
     dct:hasPart cdfa:phrase-court-557-2710 ;
     dct:spatial cdfa:location-zaragoza ;
     dct:title "Juán, Rey de Navarra, Lugarteniente. En Zaragoza, 1451."@es ;
     cdfa:chairedBy <https://iaaa.es/cdfa/person-juán,_rey_de_navarra,_lugarteniente> .
 
 cdfa:courtevent-558 a cdfa:CourtEvent ;
+    dct:date "1350" ;
     dct:hasPart cdfa:phrase-court-558-2711 ;
     dct:spatial cdfa:location-zaragoza ;
-    dct:title "Pedro Segundo. En Zaragoza, 1350."@es ;
-    cdfa:chairedBy cdfa:person-pedro_segundo .
+    dct:title "Pedro Cuarto. En Zaragoza, 1350."@es ;
+    cdfa:chairedBy cdfa:person-pedro_cuarto .
 
 cdfa:courtevent-559 a cdfa:CourtEvent ;
+    dct:date "1259" ;
     dct:hasPart cdfa:phrase-court-559-2712 ;
     dct:spatial cdfa:location-teruel ;
     dct:title "Jaime Primero. En Teruel, 1259."@es ;
+    cdfa:chairedBy cdfa:person-jaime_primero .
+
+cdfa:courtevent-560 a cdfa:CourtEvent ;
+    dct:date "1235" ;
+    dct:hasPart cdfa:phrase-court-560-2713 ;
+    dct:spatial cdfa:location-zaragoza ;
+    dct:title "Jaime Primero. Zaragoza, 1235."@es ;
     cdfa:chairedBy cdfa:person-jaime_primero .
 
 cdfa:location-alagón a dct:Location ;
@@ -717,12 +734,6 @@ cdfa:location-alagón a dct:Location ;
 
 cdfa:location-alcañiz a dct:Location ;
     dct:title "Alcañiz"@es .
-
-cdfa:location-calatayud a dct:Location ;
-    dct:title "Calatayud"@es .
-
-cdfa:location-calatayut a dct:Location ;
-    dct:title "Calatayut"@es .
 
 cdfa:location-daroca a dct:Location ;
     dct:title "Daroca"@es .
@@ -773,11 +784,8 @@ cdfa:person-martín_primero a foaf:Person ;
 <https://iaaa.es/cdfa/person-maría_reina,_lugarteniente> a foaf:Person ;
     foaf:name "María Reina, Lugarteniente"@es .
 
-cdfa:person-pedro_primero a foaf:Person ;
-    foaf:name "Pedro Primero"@es .
-
-cdfa:person-pedro_segundo a foaf:Person ;
-    foaf:name "Pedro Segundo"@es .
+cdfa:person-pedro_tercero a foaf:Person ;
+    foaf:name "Pedro Tercero"@es .
 
 cdfa:phrase-1-1-2 a cdfa:Phrase ;
     dct:description "El que viola una Iglesia consagrada y perpetra un crimen en ella tendrá que entregar a la Iglesia 800 sueldos de multa; además, pagará el homicidio."@es,
@@ -7439,6 +7447,9 @@ cdfa:phrase-court-558-2711 a cdfa:Phrase ;
 cdfa:phrase-court-559-2712 a cdfa:Phrase ;
     dct:description " "@la .
 
+cdfa:phrase-court-560-2713 a cdfa:Phrase ;
+    dct:description " "@la .
+
 cdfa:section-1-1 a cdfa:Section ;
     dct:hasPart cdfa:phrase-1-1-2,
         cdfa:phrase-1-1-3 ;
@@ -12495,7 +12506,7 @@ cdfa:section-9-505 a cdfa:Section ;
         cdfa:phrase-9-505-1795,
         cdfa:phrase-9-505-1796,
         cdfa:phrase-9-505-1797 ;
-    dct:relation cdfa:courtevent-513 ;
+    dct:relation cdfa:courtevent-560 ;
     dct:title "Confirmación de la paz."@es,
         "De confirmatione pacis."@la ;
     cdfa:chronologicalVersionPage "f.28." ;
@@ -12580,6 +12591,7 @@ cdfa:section-9-512 a cdfa:Section ;
     cdfa:systematicVersionPage "352b" .
 
 cdfa:courtevent-523 a cdfa:CourtEvent ;
+    dct:date "1366" ;
     dct:hasPart cdfa:phrase-court-523-1844,
         cdfa:phrase-court-523-1845,
         cdfa:phrase-court-523-1846,
@@ -12589,15 +12601,19 @@ cdfa:courtevent-523 a cdfa:CourtEvent ;
         cdfa:phrase-court-523-1850,
         cdfa:phrase-court-523-1851,
         cdfa:phrase-court-523-1852 ;
-    dct:spatial cdfa:location-calatayut ;
-    dct:title "Pedro Cuarto. Calatayut, 1366"@es ;
+    dct:spatial cdfa:location-calatayud ;
+    dct:title "Pedro Cuarto. Calatayud, 1366"@es ;
     cdfa:chairedBy cdfa:person-pedro_cuarto .
 
 cdfa:courtevent-552 a cdfa:CourtEvent ;
+    dct:date "1283" ;
     dct:hasPart cdfa:phrase-court-552-2705 ;
     dct:spatial cdfa:location-zaragoza ;
-    dct:title "Pedro Primero. En Zaragoza, 1283."@es ;
-    cdfa:chairedBy cdfa:person-pedro_primero .
+    dct:title "Pedro Tercero. En Zaragoza, 1283."@es ;
+    cdfa:chairedBy cdfa:person-pedro_tercero .
+
+cdfa:location-calatayud a dct:Location ;
+    dct:title "Calatayud"@es .
 
 cdfa:location-monzón a dct:Location ;
     dct:title "Monzón"@es .
@@ -12609,6 +12625,7 @@ cdfa:PartType dct:publisher cdfa: ;
     dct:title "Part Type Vocabulary"@en .
 
 cdfa:courtevent-516 a cdfa:CourtEvent ;
+    dct:date "1301" ;
     dct:hasPart cdfa:phrase-court-516-1815,
         cdfa:phrase-court-516-1816,
         cdfa:phrase-court-516-1817 ;
@@ -12617,6 +12634,7 @@ cdfa:courtevent-516 a cdfa:CourtEvent ;
     cdfa:chairedBy cdfa:person-jaime_segundo .
 
 cdfa:courtevent-530 a cdfa:CourtEvent ;
+    dct:date "1414" ;
     dct:hasPart cdfa:phrase-court-530-1899,
         cdfa:phrase-court-530-1900 ;
     dct:spatial cdfa:location-zaragoza ;
@@ -12627,6 +12645,7 @@ cdfa:person-jaime_segundo a foaf:Person ;
     foaf:name "Jaime Segundo"@es .
 
 cdfa:courtevent-518 a cdfa:CourtEvent ;
+    dct:date "1311" ;
     dct:hasPart cdfa:phrase-court-518-1821,
         cdfa:phrase-court-518-1822,
         cdfa:phrase-court-518-1823,
@@ -12637,6 +12656,7 @@ cdfa:courtevent-518 a cdfa:CourtEvent ;
     cdfa:chairedBy cdfa:person-jaime_segundo .
 
 cdfa:courtevent-522 a cdfa:CourtEvent ;
+    dct:date "1362" ;
     dct:hasPart cdfa:phrase-court-522-1836,
         cdfa:phrase-court-522-1837,
         cdfa:phrase-court-522-1838,
@@ -12650,6 +12670,7 @@ cdfa:courtevent-522 a cdfa:CourtEvent ;
     cdfa:chairedBy cdfa:person-pedro_cuarto .
 
 cdfa:courtevent-517 a cdfa:CourtEvent ;
+    dct:date "1307" ;
     dct:hasPart cdfa:phrase-court-517-1818,
         cdfa:phrase-court-517-1819,
         cdfa:phrase-court-517-1820 ;
@@ -12658,6 +12679,7 @@ cdfa:courtevent-517 a cdfa:CourtEvent ;
     cdfa:chairedBy cdfa:person-jaime_segundo .
 
 cdfa:courtevent-525 a cdfa:CourtEvent ;
+    dct:date "1372" ;
     dct:hasPart cdfa:phrase-court-525-1857,
         cdfa:phrase-court-525-1858,
         cdfa:phrase-court-525-1859,
@@ -12672,6 +12694,7 @@ cdfa:courtevent-525 a cdfa:CourtEvent ;
     cdfa:chairedBy cdfa:person-pedro_cuarto .
 
 cdfa:courtevent-528 a cdfa:CourtEvent ;
+    dct:date "1390" ;
     dct:hasPart cdfa:phrase-court-528-1883,
         cdfa:phrase-court-528-1884,
         cdfa:phrase-court-528-1885,
@@ -12684,10 +12707,8 @@ cdfa:courtevent-528 a cdfa:CourtEvent ;
     dct:title "Juan Primero. Monzón, 1390"@es ;
     cdfa:chairedBy cdfa:person-juan_primero .
 
-cdfa:person-pedro_cuarto a foaf:Person ;
-    foaf:name "Pedro Cuarto"@es .
-
 cdfa:courtevent-514 a cdfa:CourtEvent ;
+    dct:date "1265" ;
     dct:hasPart cdfa:phrase-court-514-1804,
         cdfa:phrase-court-514-1805,
         cdfa:phrase-court-514-1806 ;
@@ -12695,10 +12716,14 @@ cdfa:courtevent-514 a cdfa:CourtEvent ;
     dct:title "Jaime Primero. Ejea, 1265"@es ;
     cdfa:chairedBy cdfa:person-jaime_primero .
 
+cdfa:person-pedro_cuarto a foaf:Person ;
+    foaf:name "Pedro Cuarto"@es .
+
 cdfa:location-zaragoza a dct:Location ;
     dct:title "Zaragoza"@es .
 
 cdfa:courtevent-520 a cdfa:CourtEvent ;
+    dct:date "1349" ;
     dct:hasPart cdfa:phrase-court-520-1829,
         cdfa:phrase-court-520-1830,
         cdfa:phrase-court-520-1831 ;
@@ -12707,6 +12732,7 @@ cdfa:courtevent-520 a cdfa:CourtEvent ;
     cdfa:chairedBy cdfa:person-pedro_cuarto .
 
 cdfa:courtevent-527 a cdfa:CourtEvent ;
+    dct:date "1381" ;
     dct:hasPart cdfa:phrase-court-527-1872,
         cdfa:phrase-court-527-1873,
         cdfa:phrase-court-527-1874,
@@ -12723,6 +12749,7 @@ cdfa:courtevent-527 a cdfa:CourtEvent ;
     cdfa:chairedBy cdfa:person-pedro_cuarto .
 
 cdfa:courtevent-515 a cdfa:CourtEvent ;
+    dct:date "1300" ;
     dct:hasPart cdfa:phrase-court-515-1807,
         cdfa:phrase-court-515-1808,
         cdfa:phrase-court-515-1809,
@@ -12736,6 +12763,7 @@ cdfa:courtevent-515 a cdfa:CourtEvent ;
     cdfa:chairedBy cdfa:person-jaime_segundo .
 
 cdfa:courtevent-519 a cdfa:CourtEvent ;
+    dct:date "1348" ;
     dct:hasPart cdfa:phrase-court-519-1826,
         cdfa:phrase-court-519-1827,
         cdfa:phrase-court-519-1828 ;
@@ -12744,6 +12772,7 @@ cdfa:courtevent-519 a cdfa:CourtEvent ;
     cdfa:chairedBy cdfa:person-pedro_cuarto .
 
 cdfa:courtevent-529 a cdfa:CourtEvent ;
+    dct:date "1398" ;
     dct:hasPart cdfa:phrase-court-529-1891,
         cdfa:phrase-court-529-1892,
         cdfa:phrase-court-529-1893,
@@ -12757,6 +12786,7 @@ cdfa:courtevent-529 a cdfa:CourtEvent ;
     cdfa:chairedBy cdfa:person-martín_primero .
 
 cdfa:courtevent-513 a cdfa:CourtEvent ;
+    dct:date "1247" ;
     dct:hasPart cdfa:phrase-court-513-1798,
         cdfa:phrase-court-513-1799,
         cdfa:phrase-court-513-1800,
