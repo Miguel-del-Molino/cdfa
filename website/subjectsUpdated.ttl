@@ -1,0 +1,767 @@
+@prefix cdfa: <https://iaaa.es/cdfa/> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+
+cdfa:section-1-1 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/236> .
+
+cdfa:section-1-10 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/70> .
+
+cdfa:section-1-11 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/213> .
+
+cdfa:section-1-12 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/34> .
+
+cdfa:section-1-13 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/34> .
+
+cdfa:section-1-14 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/34>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/952> .
+
+cdfa:section-1-15 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/34>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/952> .
+
+cdfa:section-1-16 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/19> .
+
+cdfa:section-1-17 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/50>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/57>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/59> .
+
+cdfa:section-1-18 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/19>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365> .
+
+cdfa:section-1-19 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/954>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/955> .
+
+cdfa:section-1-2 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/236> .
+
+cdfa:section-1-5 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1104> .
+
+cdfa:section-1-20 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/73> .
+
+cdfa:section-1-21 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365> .
+
+cdfa:section-1-22 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/745> .
+
+cdfa:section-1-23 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/326>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365> .
+
+cdfa:section-1-24 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/914> .
+
+cdfa:section-1-25 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/201>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/73> .
+
+cdfa:section-1-29 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/935> .
+
+cdfa:section-1-3 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/236>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/245> .
+
+cdfa:section-1-33 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/157>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/201>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/893> .
+
+cdfa:section-1-38 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/908> .
+
+cdfa:section-1-39 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365> .
+
+cdfa:section-1-4 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/13>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/255> .
+
+cdfa:section-1-40 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/804> .
+
+cdfa:section-1-41 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/201> .
+
+cdfa:section-1-42 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/201> .
+
+cdfa:section-1-43 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/201> .
+
+cdfa:section-1-44 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/201> .
+
+cdfa:section-1-45 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/326>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/939> .
+
+cdfa:section-1-47 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/315>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/382> .
+
+cdfa:section-1-48 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/279> .
+
+cdfa:section-1-53 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/283> .
+
+cdfa:section-1-55 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1050>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/201>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/285>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365> .
+
+cdfa:section-1-57 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/893>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/894> .
+
+cdfa:section-1-58 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/326> .
+
+cdfa:section-1-59 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/326> .
+
+cdfa:section-1-60 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/326> .
+
+cdfa:section-1-61 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/326> .
+
+cdfa:section-1-63 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/326> .
+
+cdfa:section-1-64 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/326> .
+
+cdfa:section-1-65 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/326> .
+
+cdfa:section-1-66 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/326> .
+
+cdfa:section-1-67 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1146>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/293>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/321>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/70> .
+
+cdfa:section-1-7 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/145> .
+
+cdfa:section-1-72 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1034>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/35>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/5> .
+
+cdfa:section-1-73 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1034>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/35>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/5> .
+
+cdfa:section-1-8 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/88> .
+
+cdfa:section-1-9 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/632> .
+
+cdfa:section-2-102 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/954> .
+
+cdfa:section-2-103 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1113> .
+
+cdfa:section-2-74 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1028>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1136> .
+
+cdfa:section-2-75 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1136>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/982> .
+
+cdfa:section-2-76 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/908>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/982> .
+
+cdfa:section-2-77 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/972> .
+
+cdfa:section-2-78 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/972> .
+
+cdfa:section-2-79 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/946> .
+
+cdfa:section-2-80 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/764> .
+
+cdfa:section-2-81 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/928> .
+
+cdfa:section-2-82 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/928> .
+
+cdfa:section-2-83 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/928> .
+
+cdfa:section-2-84 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/928> .
+
+cdfa:section-2-85 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/928> .
+
+cdfa:section-2-86 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/928> .
+
+cdfa:section-2-87 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/794> .
+
+cdfa:section-2-88 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/794> .
+
+cdfa:section-2-89 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/194>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/794> .
+
+cdfa:section-2-90 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/794> .
+
+cdfa:section-2-91 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/928> .
+
+cdfa:section-2-92 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1034>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/794> .
+
+cdfa:section-2-93 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/794> .
+
+cdfa:section-2-94 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/213>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/794> .
+
+cdfa:section-2-95 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/632> .
+
+cdfa:section-2-96 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/794>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/982> .
+
+cdfa:section-2-99 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/632> .
+
+cdfa:section-3-104 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/968> .
+
+cdfa:section-3-105 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/928> .
+
+cdfa:section-3-106 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/968> .
+
+cdfa:section-3-107 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/968> .
+
+cdfa:section-3-110 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/935> .
+
+cdfa:section-3-112 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/596> .
+
+cdfa:section-3-114 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/968> .
+
+cdfa:section-3-115 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/968> .
+
+cdfa:section-3-124 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/914> .
+
+cdfa:section-3-125 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/965> .
+
+cdfa:section-3-127 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/965> .
+
+cdfa:section-3-128 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/965> .
+
+cdfa:section-3-130 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/965> .
+
+cdfa:section-3-131 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/954> .
+
+cdfa:section-3-132 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/858> .
+
+cdfa:section-3-133 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/413>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/424> .
+
+cdfa:section-3-137 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/433> .
+
+cdfa:section-3-138 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/433> .
+
+cdfa:section-3-139 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/860> .
+
+cdfa:section-3-140 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/600> .
+
+cdfa:section-3-142 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/832> .
+
+cdfa:section-3-143 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/824> .
+
+cdfa:section-3-144 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/824> .
+
+cdfa:section-3-145 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/824> .
+
+cdfa:section-3-146 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/824> .
+
+cdfa:section-3-147 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/807> .
+
+cdfa:section-3-148 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/807> .
+
+cdfa:section-3-149 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/807> .
+
+cdfa:section-3-152 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/807> .
+
+cdfa:section-3-153 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/807> .
+
+cdfa:section-3-155 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/804> .
+
+cdfa:section-3-157 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/804> .
+
+cdfa:section-3-158 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/804> .
+
+cdfa:section-3-161 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/689>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/692>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/706> .
+
+cdfa:section-3-163 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/689>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/692>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/706> .
+
+cdfa:section-3-171 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-3-176 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/870> .
+
+cdfa:section-4-178 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1034> .
+
+cdfa:section-4-179 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1034> .
+
+cdfa:section-4-182 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/705>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/786> .
+
+cdfa:section-4-184 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/705> .
+
+cdfa:section-4-185 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/639>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/647> .
+
+cdfa:section-4-186 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/639>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/647> .
+
+cdfa:section-4-187 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/679> .
+
+cdfa:section-4-188 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-4-190 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1053> .
+
+cdfa:section-4-191 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1053> .
+
+cdfa:section-4-192 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1053> .
+
+cdfa:section-4-201 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1042> .
+
+cdfa:section-4-202 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1042> .
+
+cdfa:section-4-204 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1042> .
+
+cdfa:section-4-205 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1042> .
+
+cdfa:section-4-207 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1042> .
+
+cdfa:section-4-208 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1042> .
+
+cdfa:section-4-209 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1042> .
+
+cdfa:section-4-211 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1042> .
+
+cdfa:section-4-212 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1136> .
+
+cdfa:section-4-213 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1136> .
+
+cdfa:section-4-214 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1136> .
+
+cdfa:section-4-216 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1136> .
+
+cdfa:section-4-217 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1130>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1136> .
+
+cdfa:section-4-218 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1146> .
+
+cdfa:section-4-219 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1146> .
+
+cdfa:section-4-220 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1136>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1146> .
+
+cdfa:section-4-221 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1138> .
+
+cdfa:section-4-222 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1138> .
+
+cdfa:section-4-223 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1138> .
+
+cdfa:section-4-224 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1138> .
+
+cdfa:section-4-225 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1138> .
+
+cdfa:section-4-226 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1138> .
+
+cdfa:section-4-227 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1138> .
+
+cdfa:section-4-229 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1136> .
+
+cdfa:section-4-231 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/485> .
+
+cdfa:section-4-232 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/466>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/5> .
+
+cdfa:section-4-233 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/793> .
+
+cdfa:section-4-234 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/569> .
+
+cdfa:section-4-235 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/569> .
+
+cdfa:section-4-236 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/569> .
+
+cdfa:section-4-238 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/569> .
+
+cdfa:section-4-239 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/73> .
+
+cdfa:section-4-240 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/782> .
+
+cdfa:section-4-241 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/218>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/782> .
+
+cdfa:section-4-243 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/469> .
+
+cdfa:section-4-244 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/781> .
+
+cdfa:section-4-245 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/781> .
+
+cdfa:section-4-246 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/506> .
+
+cdfa:section-4-247 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/506> .
+
+cdfa:section-4-248 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1059> .
+
+cdfa:section-4-250 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/781> .
+
+cdfa:section-4-251 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/790> .
+
+cdfa:section-4-252 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/800> .
+
+cdfa:section-4-253 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/800> .
+
+cdfa:section-4-258 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/494> .
+
+cdfa:section-4-259 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/94> .
+
+cdfa:section-4-260 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/94> .
+
+cdfa:section-4-261 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/778> .
+
+cdfa:section-4-267 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/460> .
+
+cdfa:section-4-268 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/456> .
+
+cdfa:section-4-269 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/118> .
+
+cdfa:section-4-270 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/477>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/493>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/497> .
+
+cdfa:section-4-271 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/831> .
+
+cdfa:section-5-272 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-5-273 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-5-274 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-5-275 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-5-276 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-5-278 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-5-279 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-5-280 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-5-281 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-5-282 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-5-283 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/664>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/679>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/705> .
+
+cdfa:section-5-285 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-5-286 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-5-287 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/390>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/456>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/876> .
+
+cdfa:section-5-291 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/685> .
+
+cdfa:section-5-292 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/639> .
+
+cdfa:section-5-294 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/740> .
+
+cdfa:section-5-295 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/634>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/658>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/695> .
+
+cdfa:section-5-296 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/654>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/658> .
+
+cdfa:section-5-297 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/698>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/722>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/728>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/740> .
+
+cdfa:section-6-298 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/567>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/818> .
+
+cdfa:section-6-299 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/567>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/818> .
+
+cdfa:section-6-301 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/567>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/818> .
+
+cdfa:section-6-302 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/567>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/818> .
+
+cdfa:section-6-305 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/517>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/567> .
+
+cdfa:section-6-307 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/517>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/567> .
+
+cdfa:section-6-309 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/567>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/809> .
+
+cdfa:section-6-310 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/567> .
+
+cdfa:section-6-311 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/722> .
+
+cdfa:section-6-312 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/722> .
+
+cdfa:section-6-314 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/126>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/705>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/722>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/73> .
+
+cdfa:section-6-315 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-6-316 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/337>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/722> .
+
+cdfa:section-6-317 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/639>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/701> .
+
+cdfa:section-6-320 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/639>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/701> .
+
+cdfa:section-6-321 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/694> .
+
+cdfa:section-7-325 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/73> .
+
+cdfa:section-7-327 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/954>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/955> .
+
+cdfa:section-7-331 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/954>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/955> .
+
+cdfa:section-7-332 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/954>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/955> .
+
+cdfa:section-7-333 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/106> .
+
+cdfa:section-7-334 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/106> .
+
+cdfa:section-7-337 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/106> .
+
+cdfa:section-7-338 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/35>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/73> .
+
+cdfa:section-7-341 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/425>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/491> .
+
+cdfa:section-7-342 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/126>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/468> .
+
+cdfa:section-7-343 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/85> .
+
+cdfa:section-7-344 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/105>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/73>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/85> .
+
+cdfa:section-7-345 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/372> .
+
+cdfa:section-7-346 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/509> .
+
+cdfa:section-7-347 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/71> .
+
+cdfa:section-7-348 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/378>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/71>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/73> .
+
+cdfa:section-7-349 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/378>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/73> .
+
+cdfa:section-7-351 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/378>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/71> .
+
+cdfa:section-7-352 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/376> .
+
+cdfa:section-7-353 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/376> .
+
+cdfa:section-7-359 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/119>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/73> .
+
+cdfa:section-7-360 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/928> .
+
+cdfa:section-7-361 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/551> .
+
+cdfa:section-7-362 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/839> .
+
+cdfa:section-7-369 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/949> .
+
+cdfa:section-7-370 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/928>.
+
+cdfa:section-7-371 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/276>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/324>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365> .
+
+cdfa:section-7-386 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/935>.
+
+cdfa:section-7-387 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/935>.
+
+cdfa:section-7-388 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/935>.
+
+cdfa:section-8-390 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/839> .
+
+cdfa:section-8-391 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/341>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/346> .
+
+cdfa:section-8-394 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-395 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-396 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-397 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-398 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-399 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-400 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/781> .
+
+cdfa:section-8-401 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-403 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-404 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-405 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-409 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-412 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-413 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-414 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/840> .
+
+cdfa:section-8-417 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/448>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/457> .
+
+cdfa:section-8-418 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/787> .
+
+cdfa:section-8-420 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/787> .
+
+cdfa:section-8-423 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/787> .
+
+cdfa:section-8-424 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/787> .
+
+cdfa:section-8-425 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/787> .
+
+cdfa:section-8-426 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/787> .
+
+cdfa:section-8-428 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/745>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/757> .
+
+cdfa:section-8-429 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/745>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/757> .
+
+cdfa:section-8-430 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/632> .
+
+cdfa:section-8-431 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/731>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/757> .
+
+cdfa:section-8-432 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/203>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/365>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/732>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/797> .
+
+cdfa:section-8-435 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1093>.
+
+cdfa:section-9-439 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1096> .
+
+cdfa:section-9-440 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1096> .
+
+cdfa:section-9-441 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1096> .
+
+cdfa:section-9-443 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1096> .
+
+cdfa:section-9-444 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1096> .
+
+cdfa:section-9-445 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1093> .
+
+cdfa:section-9-446 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1093> .
+
+cdfa:section-9-447 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1093> .
+
+cdfa:section-9-450 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/601> .
+
+cdfa:section-9-451 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/543> .
+
+cdfa:section-9-452 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/543> .
+
+cdfa:section-9-454 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/566> .
+
+cdfa:section-9-457 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/566> .
+
+cdfa:section-9-458 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/566> .
+
+cdfa:section-9-459 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/566> .
+
+cdfa:section-9-460 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-9-461 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/668> .
+
+cdfa:section-9-463 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/566> .
+
+cdfa:section-9-470 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/447>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/526>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/560> .
+
+cdfa:section-9-471 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/425> .
+
+cdfa:section-9-472 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/425> .
+
+cdfa:section-9-473 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/425> .
+
+cdfa:section-9-474 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/425> .
+
+cdfa:section-9-476 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/613> .
+
+cdfa:section-9-477 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/613> .
+
+cdfa:section-9-478 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/568> .
+
+cdfa:section-9-479 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/568> .
+
+cdfa:section-9-487 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1112> .
+
+cdfa:section-9-489 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/400> .
+
+cdfa:section-9-490 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1131>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/117>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/636> .
+
+cdfa:section-9-491 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1131>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/117>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/636> .
+
+cdfa:section-9-496 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/570> .
+
+cdfa:section-9-497 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/570> .
+
+cdfa:section-9-498 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/413>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/424>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/450> .
+
+cdfa:section-9-500 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/191>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/196> .
+
+cdfa:section-9-501 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/191>,
+        <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/196> .
+
+cdfa:section-9-502 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/196> .
+
+cdfa:section-9-503 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/373> .
+
+cdfa:section-9-504 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/191> .
+
+cdfa:section-9-505 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/191> .
+
+cdfa:section-9-509 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/191> .
+
+cdfa:section-9-510 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1025> .
+
+cdfa:section-9-511 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1025> .
+
+cdfa:section-9-512 dcterms:subject <https://ibersid.eu/tesauros/tesauro_00/vocab/skos/1025> .
+
+
